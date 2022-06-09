@@ -2,3 +2,4 @@ logs.log
 settings.py
 .idea
 venv
+sqlite.db
